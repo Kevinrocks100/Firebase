@@ -3,10 +3,13 @@
 // (https://console.firebase.google.com/project/your-project-id/overview)
 // and clicking "Add Firebase to your web app"
 var config = {
-  apiKey: "<your-api-key>",
-  authDomain: "<your-project-id>.firebaseapp.com",
-  databaseURL: "https://<your-project-id>.firebaseio.com",
-  storageBucket: "<your-project-id>.appspot.com",
+    apiKey: "AIzaSyATm-YOxJm_1RpAYg-wdQnfeHujBxEHU3w",
+    authDomain: "fire-ed197.firebaseapp.com",
+    databaseURL: "https://fire-ed197-default-rtdb.firebaseio.com",
+    projectId: "fire-ed197",
+    storageBucket: "fire-ed197.appspot.com",
+    messagingSenderId: "1038552950333",
+    appId: "1:1038552950333:web:00575944c3825efd67ec54"
 };
 
 // Initialize your Firebase app
